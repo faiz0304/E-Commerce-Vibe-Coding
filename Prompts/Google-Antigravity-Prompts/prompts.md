@@ -1,4 +1,4 @@
-## Prompt-1:
+## Prompt-2:
 
 ```prompt-txt
 Build a modern and visually appealing frontend for an e-commerce website.
